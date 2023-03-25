@@ -32,6 +32,8 @@ st.markdown(
     we can gain insights into bee behavior and characteristics,
     which can help inform better hive monitoring and beekeeping practices.
 
+    Link to the source: [Here!](https://www.kaggle.com/datasets/jenny18/honey-bee-annotated-images?resource=download)
+
     ### Dataset
     - This dataset contains 5,100+ bee images annotated with location, date, time, subspecies, health condition, caste, and pollen.
     - The images in this dataset were extracted from time-lapse videos of bees in motion.
